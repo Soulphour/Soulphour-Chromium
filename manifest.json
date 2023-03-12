@@ -1,0 +1,101 @@
+{
+	"manifest_version": 2,
+	"name": "Esoterik Theme",
+	"description": "This theme was created by its creator.",
+	"version": "1.3.3.7",
+	"author": "The Creator",
+	"theme": {
+		"colors": {
+			"frame": [
+				24,
+				24,
+				24
+			],
+			"frame_inactive": [
+				24,
+				24,
+				24
+			],
+			"frame_incognito": [
+				24,
+				24,
+				24
+			],
+			"frame_incognito_inactive": [
+				24,
+				24,
+				24
+			],
+			"background_tab": [
+				24,
+				24,
+				24
+			],
+			"background_tab_inactive": [
+				24,
+				24,
+				24
+			],
+			"background_tab_incognito": [
+				232,
+				232,
+				232
+			],
+			"background_tab_incognito_inactive": [
+				60,
+				64,
+				67
+			],
+			"bookmark_text": [
+				58,
+				62,
+				65
+			],
+			"tab_background_text": [
+				232,
+				232,
+				232
+			],
+			"tab_background_text_inactive": [
+				232,
+				232,
+				232
+			],
+			"tab_background_text_incognito": [
+				232,
+				232,
+				232
+			],
+			"tab_background_text_incognito_inactive": [
+				232,
+				232,
+				232
+			],
+			"tab_text": [
+				255,
+				221,
+				51
+			],
+			"toolbar": [
+				24,
+				24,
+				24
+			],
+			"toolbar_button_icon": [
+				24,
+				24,
+				24
+			],
+			"omnibox_text": [
+				232,
+				232,
+				232
+			],
+			"omnibox_background": [
+				24,
+				24,
+				24
+			]
+		}
+	}
+}
